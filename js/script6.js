@@ -80,36 +80,36 @@ const cards = [
   {src: 'https://img.freepik.com/free-vector/crossing-bones-skull-vector-logo_43623-1281.jpg?semt=ais_hybrid&w=740&q=80'}
 ];
 
-const c1 = document.createElement('img'); c1.style.cssText = `width: 100%; max-width: 180px; height: 100%; max-height: 180px; margin:5px;
+const c1 = document.createElement('img'); c1.style.cssText = `width: 100%; max-width: 170px; height: 100%; max-height: 170px; margin:5px;
 box-shadow: 0 0 20px rgba(255, 238, 0, 0.33);
 animation-delay: 50s;
     cursor: pointer;`; thirdElement.append(c1);
-const c2 = document.createElement('img'); c2.style.cssText = `width: 100%; max-width: 180px; height: 100%; max-height: 180px; margin:5px;
+const c2 = document.createElement('img'); c2.style.cssText = `width: 100%; max-width: 170px; height: 100%; max-height: 170px; margin:5px;
 box-shadow: 0 0 20px rgba(255, 238, 0, 0.33);
     cursor: pointer;`; thirdElement.append(c2);
-const c3 = document.createElement('img'); c3.style.cssText = `width: 100%; max-width: 180px; height: 100%; max-height: 180px; margin:5px;
+const c3 = document.createElement('img'); c3.style.cssText = `width: 100%; max-width: 170px; height: 100%; max-height: 170px; margin:5px;
 box-shadow: 0 0 20px rgba(255, 238, 0, 0.33);
     cursor: pointer;`; thirdElement.append(c3);
 thirdElement.append(document.createElement('br'));
 
-const c4 = document.createElement('img'); c4.style.cssText = `width: 100%; max-width: 180px; height: 100%; max-height: 180px; margin:5px;
+const c4 = document.createElement('img'); c4.style.cssText = `width: 100%; max-width: 170px; height: 100%; max-height: 170px; margin:5px;
 box-shadow: 0 0 20px rgba(255, 238, 0, 0.33);
     cursor: pointer;`; thirdElement.append(c4);
-const c5 = document.createElement('img'); c5.style.cssText = `width: 100%; max-width: 180px; height: 100%; max-height: 180px; margin:5px;
+const c5 = document.createElement('img'); c5.style.cssText = `width: 100%; max-width: 170px; height: 100%; max-height: 170px; margin:5px;
 box-shadow: 0 0 20px rgba(255, 238, 0, 0.33);
     cursor: pointer;`; thirdElement.append(c5);
-const c6 = document.createElement('img'); c6.style.cssText = `width: 100%; max-width: 180px; height: 100%; max-height: 180px; margin:5px;
+const c6 = document.createElement('img'); c6.style.cssText = `width: 100%; max-width: 170px; height: 100%; max-height: 170px; margin:5px;
 box-shadow: 0 0 20px rgba(255, 238, 0, 0.33);
     cursor: pointer;`; thirdElement.append(c6);
 thirdElement.append(document.createElement('br'));
 
-const c7 = document.createElement('img'); c7.style.cssText = `width: 100%; max-width: 180px; height: 100%; max-height: 180px; margin:5px;
+const c7 = document.createElement('img'); c7.style.cssText = `width: 100%; max-width: 170px; height: 100%; max-height: 170px; margin:5px;
 box-shadow: 0 0 20px rgba(255, 238, 0, 0.33);
     cursor: pointer;`; thirdElement.append(c7);
-const c8 = document.createElement('img'); c8.style.cssText = `width: 100%; max-width: 180px; height: 100%; max-height: 180px; margin:5px;
+const c8 = document.createElement('img'); c8.style.cssText = `width: 100%; max-width: 170px; height: 100%; max-height: 170px; margin:5px;
 box-shadow: 0 0 20px rgba(255, 238, 0, 0.33);
     cursor: pointer;`; thirdElement.append(c8);
-const c9 = document.createElement('img'); c9.style.cssText = `width: 100%; max-width: 180px; height: 100%; max-height: 180px; margin:5px;
+const c9 = document.createElement('img'); c9.style.cssText = `width: 100%; max-width: 170px; height: 100%; max-height: 170px; margin:5px;
 box-shadow: 0 0 20px rgba(255, 238, 0, 0.33);
     cursor: pointer;`; thirdElement.append(c9);
 thirdElement.append(document.createElement('br'));
@@ -156,8 +156,8 @@ relod.style.cssText = `
   display: inline-block;
   margin: 18px 0px;
   margin-left: 253px;
-  padding: 10px 20px;
-  font-size: 20px;
+  padding: 10px 18px;
+  font-size: 18px;
   background-color: #370075ff;
   color: white;
   text-decoration: none;
